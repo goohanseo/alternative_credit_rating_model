@@ -1,0 +1,71 @@
+{
+  "attractive_power_data_file_paths": {
+    "residential_customers": "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/residential_customers.csv",
+    "working_population": "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/working_population.csv",
+    "attractive_facilities": "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/attractive_facilities.csv",
+    "floating_population": "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/floating_population.csv"
+  },
+  "attractive_power_column_definition_paths": {
+    "residential_customers": "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/column_of_residential_customers.csv",
+    "working_population": "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/column_of_working_population.csv",
+    "attractive_facilities": "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/column_of_attractive_facilities.csv",
+    "floating_population": "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/column_of_floating_population.csv"
+  },
+  "attractive_power_result_paths" : "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/attractive_power_result.csv",
+
+    "density_data_file_paths": {
+    "residential_customers": "/path/to/residential_customers.csv",
+    "working_population": "/path/to/working_population.csv",
+    "attractive_facilities": "/path/to/attractive_facilities.csv",
+    "floating_population": "/path/to/floating_population.csv"
+  },
+  "density_column_definition_paths": {
+    "residential_customers": "/path/to/column_definitions/residential_customers.csv",
+    "working_population": "/path/to/column_definitions/working_population.csv",
+    "attractive_facilities": "/path/to/column_definitions/attractive_facilities.csv",
+    "floating_population": "/path/to/column_definitions/floating_population.csv"
+  },
+  "density_result_paths" : "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/density_result.csv",
+
+    "growth_potential_file_paths": {
+    "residential_customers": "/path/to/residential_customers.csv",
+    "working_population": "/path/to/working_population.csv",
+    "attractive_facilities": "/path/to/attractive_facilities.csv",
+    "floating_population": "/path/to/floating_population.csv"
+  },
+  "growth_potential_column_definition_paths": {
+    "residential_customers": "/path/to/column_definitions/residential_customers.csv",
+    "working_population": "/path/to/column_definitions/working_population.csv",
+    "attractive_facilities": "/path/to/column_definitions/attractive_facilities.csv",
+    "floating_population": "/path/to/column_definitions/floating_population.csv"
+  },
+  "growth_potential_result_paths" : "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/growth_potential_result.csv",
+
+    "purchasing_power_data_file_paths": {
+    "residential_customers": "/path/to/residential_customers.csv",
+    "working_population": "/path/to/working_population.csv",
+    "attractive_facilities": "/path/to/attractive_facilities.csv",
+    "floating_population": "/path/to/floating_population.csv"
+  },
+  "purchasing_power_column_definition_paths": {
+    "residential_customers": "/path/to/column_definitions/residential_customers.csv",
+    "working_population": "/path/to/column_definitions/working_population.csv",
+    "attractive_facilities": "/path/to/column_definitions/attractive_facilities.csv",
+    "floating_population": "/path/to/column_definitions/floating_population.csv"
+  },
+  "puchasing_power_result_paths" : "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/puchasing_power_result.csv",
+
+  "stability_data_file_paths": {
+    "residential_customers": "/path/to/residential_customers.csv",
+    "working_population": "/path/to/working_population.csv",
+    "attractive_facilities": "/path/to/attractive_facilities.csv",
+    "floating_population": "/path/to/floating_population.csv"
+  },
+  "stability_column_definition_paths": {
+    "residential_customers": "/path/to/column_definitions/residential_customers.csv",
+    "working_population": "/path/to/column_definitions/working_population.csv",
+    "attractive_facilities": "/path/to/column_definitions/attractive_facilities.csv",
+    "floating_population": "/path/to/column_definitions/floating_population.csv"
+  },
+  "stability_result_paths" : "/Users/guhanseo/study/소상공인대안신용평가모델/데이터/stability_result.csv"
+}
